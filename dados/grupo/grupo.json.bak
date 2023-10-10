@@ -1,0 +1,11 @@
+{
+  "textobemvindo": "👋Olá Seja bem vindo ao grupo\nLeia  as regras pra não ser removido",
+  "textoadeus": "👋Adeus amigo volte sempre",
+  "textopromover": "‼️Foi promovido a administrador do grupo‼️",
+  "textorebaixar": "‼️Perdeu o cargo de administrador do grupo‼️",
+  "textofechado": "‼️ Alterações nas configurações do grupo‼️\n\nO grupo foi fechado pelo administrador, agora só os administradores podem enviar mensagens !",
+  "textoeberto": "‼️Alterações nas configurações do grupo‼️\n\nO grupo foi aberto pelo administrador, agora os participantes podem enviar mensagens !",
+  "textonome": "‼️Alterações nas configurações do grupo‼️\n\nO nome do Grupo foi alterado para:",
+  "textoeditarno": "‼️Alterações nas configurações do grupo‼️\n\nInformações do grupo foram abertas, agora os participantes podem editar informações do grupo !",
+  "textoeditaroff": "‼️Alterações nas configurações do grupo‼️\n\nAs informações do grupo foram restritas, agora apenas administradores podem editar informações do grupo !"
+}
