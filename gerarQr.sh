@@ -1,5 +1,8 @@
-# Encrypted by Venomkkkkkkk
-# Canal- https://youtube.com/@VenomModss
+# Encrypted by Eypzzzzz
+# Canal- https://youtube.com/@eypzgod
+#Dont re-code this one 
+#if any one want to re-code this give me credit & re-cod 
+# @sataniceypz
 
 z="
 ";xz=';Fz=';JBz='$Cz$';Jz='}'\''';MBz='$z$G';lz=''\''rm ';Nz='ndo ';Kz='Agua';vz=' '\'';I';iz='z='\''r';rz=''\'';Jz';Xz='nte.';Yz='.'\''';Mz='gera';qz='slee';hz='n'\'';D';pz='Gz='\''';oz=' 3'\'';';az='";Mz';sz='='\''r'\''';Vz='mati';Cz='33[0';HBz=' "$A';PBz='z$Jz';Tz='bot ';Fz='clea';CBz='nom'\''';Az='CYAN';Lz='rde ';KBz='Dz$E';Qz='QR';jz='f .'\''';BBz='z='\''e';dz='z='\''c';Bz='='\''\0';gz=''\''/Ve';cz='h'\'';A';LBz='z$Fz';nz='z='\''p';tz=';Bz=';Zz='z="';Rz='Rein';wz='lea'\''';Wz='came';Uz='auto';DBz=';Kz=';Hz='echo';Pz='ovo ';QBz='$z$K';IBz='z$Bz';OBz='$z$I';ABz='r'\'';L';Sz='icia';fz=';Ez=';Oz='um n';kz=';Cz=';EBz=''\''sh ';GBz='eval';yz=''\''omQ';bz='='\''.s';RBz='z$Lz';Iz='  ${';NBz='z$Hz';Ez=''\''';SBz='$Mz"';Gz='r';ez='omm'\''';mz='-'\'';H';Dz=';36m';FBz='v'\'';';uz=''\''and';
